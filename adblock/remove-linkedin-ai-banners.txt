@@ -1,0 +1,4 @@
+! last updated: 2024-05-23; Removes LinkedIn AI banners
+www.linkedin.com##.coach-shared-hscroll-bar__multi-container
+www.linkedin.com##.coach-shared-hscroll-bar__right-button.ember-view.artdeco-button--tertiary.artdeco-button--1.artdeco-button--muted.artdeco-button
+www.linkedin.com##.coach-shared-hscroll-bar__left-button.ember-view.artdeco-button--tertiary.artdeco-button--1.artdeco-button--muted.artdeco-button
