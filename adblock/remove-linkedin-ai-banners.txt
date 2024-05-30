@@ -1,8 +1,9 @@
 ! Title: Remove LinkedIn AI Banners 🙅✨
 ! Description: A simple list to remove AI suggestion banners from LinkedIn posts.
 ! Homepage: https://github.com/lwndow/tweaks/adblock/
-! last updated: 2024-05-24
+! last updated: 2024-05-30
 www.linkedin.com##.coach-shared-hscroll-bar__multi-container
 www.linkedin.com##.coach-shared-hscroll-bar__right-button.ember-view.artdeco-button--tertiary.artdeco-button--1.artdeco-button--muted.artdeco-button
 www.linkedin.com##.coach-shared-hscroll-bar__left-button.ember-view.artdeco-button--tertiary.artdeco-button--1.artdeco-button--muted.artdeco-button
 www.linkedin.com##.MjosjHHhhHaMgQmvOgrvzAmsSzJRiqZvAzhwDGk
+www.linkedin.com##.ILDQPBLbnfDKGkeioqRdhMRGxqWJICidzsM
