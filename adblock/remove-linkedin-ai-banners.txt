@@ -7,4 +7,8 @@ www.linkedin.com##.coach-shared-hscroll-bar__right-button.ember-view.artdeco-but
 www.linkedin.com##.coach-shared-hscroll-bar__left-button.ember-view.artdeco-button--tertiary.artdeco-button--1.artdeco-button--muted.artdeco-button
 www.linkedin.com##.MjosjHHhhHaMgQmvOgrvzAmsSzJRiqZvAzhwDGk
 www.linkedin.com##.ILDQPBLbnfDKGkeioqRdhMRGxqWJICidzsM
+<<<<<<< HEAD
 www.linkedin.com##.fHulQjnNmtHsWCTHprHInshuCYVNZdZQ
+=======
+www.linkedin.com##.SyYHsnfkRVEKsXGYBLgWweYOYVMTaDcghws
+>>>>>>> 2bbf453 (update elements from LI update)
